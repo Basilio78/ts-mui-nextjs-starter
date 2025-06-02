@@ -14,8 +14,8 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        label: Conoce los proyectos
+        url: /Servicios
         size: large
         variant: outlined
         color: primary
