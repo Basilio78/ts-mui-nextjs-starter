@@ -21,8 +21,8 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
-      altText: Hero section image
+      url: public/images/IMG_9600.JPG
+      altText: Estrategia Digital Empresarial
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
